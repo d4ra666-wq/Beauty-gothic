@@ -604,5 +604,18 @@ body {
    .contacts__container {
       max-width: 350px;
    }
+    .portfolio__item {
+      flex-direction: column;
+      align-items: stretch;
+    }
+
+    .portfolio__img {
+      width: 100%;
+      height: 300px;
+    }
+
+    .portfolio__info {
+      width: 100%;
+    }
 }
 
